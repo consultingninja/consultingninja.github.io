@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.46802068.css",
-    "main.js": "/static/js/main.d0fc817e.js",
+    "main.css": "/static/css/main.2200ae48.css",
+    "main.js": "/static/js/main.8294a797.js",
     "static/media/part4Javascript.png": "/static/media/part4Javascript.a3ef247889d4f4a73b1f.png",
     "static/media/Flexbox.png": "/static/media/Flexbox.d620bea948f2962e8985.png",
     "static/media/htmlBasics.png": "/static/media/htmlBasics.b3bd7f29dc38e0b2dfc9.png",
@@ -9,11 +9,11 @@
     "static/media/overview.png": "/static/media/overview.4f7b73bf73d460fe659f.png",
     "static/media/ConsultingNinja-Logo.png": "/static/media/ConsultingNinja-Logo.7fbd7bc815e79219264b.png",
     "index.html": "/index.html",
-    "main.46802068.css.map": "/static/css/main.46802068.css.map",
-    "main.d0fc817e.js.map": "/static/js/main.d0fc817e.js.map"
+    "main.2200ae48.css.map": "/static/css/main.2200ae48.css.map",
+    "main.8294a797.js.map": "/static/js/main.8294a797.js.map"
   },
   "entrypoints": [
-    "static/css/main.46802068.css",
-    "static/js/main.d0fc817e.js"
+    "static/css/main.2200ae48.css",
+    "static/js/main.8294a797.js"
   ]
 }

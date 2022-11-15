@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.82e24258.css",
-    "main.js": "/static/js/main.4f553256.js",
+    "main.js": "/static/js/main.e7d03e97.js",
+    "static/media/Advanced.png": "/static/media/Advanced.76dab06038e1b4828e6f.png",
     "static/media/part4Javascript.png": "/static/media/part4Javascript.a3ef247889d4f4a73b1f.png",
     "static/media/Flexbox.png": "/static/media/Flexbox.d620bea948f2962e8985.png",
     "static/media/introToFrameworks.png": "/static/media/introToFrameworks.b9660615b0818c4db93e.png",
+    "static/media/devOpsFront.png": "/static/media/devOpsFront.a1484b3a5b6cac74f38b.png",
     "static/media/javascriptTutorial.png": "/static/media/javascriptTutorial.e6a8b606da60f836774f.png",
     "static/media/devOpsDeeper.png": "/static/media/devOpsDeeper.11c9799843ab889db4b4.png",
     "static/media/htmlBasics.png": "/static/media/htmlBasics.b3bd7f29dc38e0b2dfc9.png",
@@ -14,10 +16,10 @@
     "static/media/ConsultingNinja-Logo.png": "/static/media/ConsultingNinja-Logo.7fbd7bc815e79219264b.png",
     "index.html": "/index.html",
     "main.82e24258.css.map": "/static/css/main.82e24258.css.map",
-    "main.4f553256.js.map": "/static/js/main.4f553256.js.map"
+    "main.e7d03e97.js.map": "/static/js/main.e7d03e97.js.map"
   },
   "entrypoints": [
     "static/css/main.82e24258.css",
-    "static/js/main.4f553256.js"
+    "static/js/main.e7d03e97.js"
   ]
 }

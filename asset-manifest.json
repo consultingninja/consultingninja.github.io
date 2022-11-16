@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.82e24258.css",
-    "main.js": "/static/js/main.e7d03e97.js",
+    "main.js": "/static/js/main.1ff7afbb.js",
     "static/media/Advanced.png": "/static/media/Advanced.76dab06038e1b4828e6f.png",
     "static/media/part4Javascript.png": "/static/media/part4Javascript.a3ef247889d4f4a73b1f.png",
     "static/media/Flexbox.png": "/static/media/Flexbox.d620bea948f2962e8985.png",
@@ -11,15 +11,16 @@
     "static/media/devOpsDeeper.png": "/static/media/devOpsDeeper.11c9799843ab889db4b4.png",
     "static/media/htmlBasics.png": "/static/media/htmlBasics.b3bd7f29dc38e0b2dfc9.png",
     "static/media/css.png": "/static/media/css.7660bcffa22e755db996.png",
+    "static/media/emailJs.png": "/static/media/emailJs.7656ae472550f451967d.png",
     "static/media/overview.png": "/static/media/overview.4f7b73bf73d460fe659f.png",
     "static/media/devOpsBeginner.png": "/static/media/devOpsBeginner.7dd3e3688320ff532e80.png",
     "static/media/ConsultingNinja-Logo.png": "/static/media/ConsultingNinja-Logo.7fbd7bc815e79219264b.png",
     "index.html": "/index.html",
     "main.82e24258.css.map": "/static/css/main.82e24258.css.map",
-    "main.e7d03e97.js.map": "/static/js/main.e7d03e97.js.map"
+    "main.1ff7afbb.js.map": "/static/js/main.1ff7afbb.js.map"
   },
   "entrypoints": [
     "static/css/main.82e24258.css",
-    "static/js/main.e7d03e97.js"
+    "static/js/main.1ff7afbb.js"
   ]
 }

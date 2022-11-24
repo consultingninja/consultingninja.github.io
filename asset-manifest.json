@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.82e24258.css",
-    "main.js": "/static/js/main.17cbd821.js",
+    "main.css": "/static/css/main.8e895d9f.css",
+    "main.js": "/static/js/main.b94a86a1.js",
     "static/media/Reactforms.png": "/static/media/Reactforms.2fbb7ecca7b6ee5ad05d.png",
     "static/media/Routes.png": "/static/media/Routes.d64fadf0d7cddb5e194f.png",
     "static/media/Advanced.png": "/static/media/Advanced.76dab06038e1b4828e6f.png",
@@ -21,11 +21,11 @@
     "static/media/VITE JS.png": "/static/media/VITE JS.cc6d2f91acdac0096e2b.png",
     "static/media/ConsultingNinja-Logo.png": "/static/media/ConsultingNinja-Logo.7fbd7bc815e79219264b.png",
     "index.html": "/index.html",
-    "main.82e24258.css.map": "/static/css/main.82e24258.css.map",
-    "main.17cbd821.js.map": "/static/js/main.17cbd821.js.map"
+    "main.8e895d9f.css.map": "/static/css/main.8e895d9f.css.map",
+    "main.b94a86a1.js.map": "/static/js/main.b94a86a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.82e24258.css",
-    "static/js/main.17cbd821.js"
+    "static/css/main.8e895d9f.css",
+    "static/js/main.b94a86a1.js"
   ]
 }

@@ -1,1 +1,0 @@
-import{S as t,i as n,s}from"../../chunks/index-becaf8ff.js";function a(r,e,o){return[!0]}class u extends t{constructor(e){super(),n(this,e,a,null,s,{prerender:0})}get prerender(){return this.$$.ctx[0]}}export{u as default};
